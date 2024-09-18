@@ -58,7 +58,7 @@ We would like to thank the Flutter community for their support and contributions
 
 ## Contact
 
-If you have any questions or suggestions regarding the Coffee app, feel free to contact us at rh676838@gmail.com 
+If you have any questions or suggestions regarding the Coffee app, feel free to contact us at swe.mahmud@gmail.com 
 
 ---
 
